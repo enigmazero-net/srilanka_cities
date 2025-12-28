@@ -1,0 +1,8 @@
+# Raw / messy sources (keep local only)
+Postal_Codes.csv
+data/Postal_Codes.clean.csv
+data/Postal_Codes.csv
+
+# OS + editor noise
+.DS_Store
+*.swp
